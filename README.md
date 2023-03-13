@@ -2,11 +2,11 @@
   Hi, I'm Giuseppe Steduto
 </h2>
 <p align="center">
-  🧑‍🎓 Computer Engineering Student @ PoliMi | 🌐 Full-stack Web Developer 
+  💻 Intern @ CERN | 🧑‍🎓 Computer Engineering Student @ PoliMi
 </p>
 
 ## 📖 About me
-I am a passionate tech enthusiast, coder and aspiring Computer Engineering. I love exploring different topics and learning as much as possible about new and impacting technologies. I have a strong background in web development, computer security, and networking. I am now learning AI&ML, in order to use them as tools to contribute to tackling social challenges. I am also quite interested in bioinformatics and neuroengineering. <hr />
+I am a passionate tech enthusiast, coder and aspiring Computer Engineer. I love exploring different topics and learning as much as possible about new and impacting technologies. I have a strong background in full-stack development, computer security, and networking. I am now learning AI&ML, in order to use them as tools to contribute to tackling social challenges. I am also quite interested in bioinformatics, neuroengineering, and scientific computing. <hr />
 If you're reading this, it means that you're interested in my profile - what an honor! You can also download <a href="https://github.com/giuseppe-steduto/giuseppe-steduto/blob/main/GiuseppeSteduto_CV.pdf">my CV</a>!
 
 ## 💻 Programming Languages
@@ -45,6 +45,7 @@ If you're reading this, it means that you're interested in my profile - what an 
 - Raspberry PI
 
 ### Experience
+- 👨‍💻 Technical Student @ CERN
 - 👨‍💻 Web developer @ Grupem
 - 👨‍🏫 Peer tutor and private teacher in STEM subjects for university and high school students
 
