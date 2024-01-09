@@ -47,6 +47,7 @@ If you're reading this, it means that you're interested in my profile - what an 
 ### Experience
 - 👨‍💻 Technical Student @ CERN
 - 👨‍💻 Web developer @ Grupem
+- 🧑‍🔬 Undergraduate researcher @ IIT Chicago
 - 👨‍🏫 Peer tutor and private teacher in STEM subjects for university and high school students
 
 ### Education
